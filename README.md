@@ -71,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0050-powx-n) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0069-sqrtx) |
