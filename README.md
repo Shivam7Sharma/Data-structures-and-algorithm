@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
@@ -150,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
