@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0067-add-binary) |
 | [0459-repeated-substring-pattern](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0459-repeated-substring-pattern) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
