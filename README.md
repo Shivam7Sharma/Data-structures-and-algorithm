@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0605-can-place-flowers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
