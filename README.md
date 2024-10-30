@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0139-word-break) |
@@ -147,12 +148,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0459-repeated-substring-pattern) |
 ## Depth-First Search
 |  |
