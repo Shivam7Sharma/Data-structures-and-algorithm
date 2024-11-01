@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
 ## Matrix
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Greedy
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
