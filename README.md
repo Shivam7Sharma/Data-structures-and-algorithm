@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
 ## Dynamic Programming
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
 | ------- |
