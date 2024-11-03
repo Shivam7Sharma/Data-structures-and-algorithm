@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Greedy
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Hash Table
 |  |
