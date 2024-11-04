@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0605-can-place-flowers) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
+| [0945-snakes-and-ladders](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0945-snakes-and-ladders) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
+| [0945-snakes-and-ladders](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0945-snakes-and-ladders) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0945-snakes-and-ladders](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0945-snakes-and-ladders) |
 ## Binary Search Tree
 |  |
 | ------- |
