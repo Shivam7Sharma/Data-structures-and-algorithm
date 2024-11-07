@@ -11,25 +11,43 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-         ListNode dummy(0); // Create a dummy node
-        ListNode* tail = &dummy; // Tail points to the last node of the merged list
-
-        while (list1 && list2) {
-            if (list1->val < list2->val) {
-                tail->next = list1;
-                list1 = list1->next;
-            } else {
-                tail->next = list2;
-                list2 = list2->next;
-            }
-            tail = tail->next; // Move the tail pointer
+        ListNode* dummy= new ListNode();
+        ListNode* tail= dummy;
+        dummy->next= list1;
+        ListNode* curr1= list1;
+        ListNode* curr2= list2;
+        if(!list1){
+            return list2;
         }
-
-        // Link the remaining nodes
-        if (list1) tail->next = list1;
-        if (list2) tail->next = list2;
-
-        return dummy.next; // Return the merged list, which starts after the dummy node
-   
+        else if(!list2){
+            return list1;
+        }
+        while(tail && tail->next){
+            if(curr1->val>=curr2->val){
+                tail->next= curr2;
+                curr2= curr2->next;
+                tail= tail->next;
+            }
+            else if(curr1->val<curr2->val){
+                tail->next=curr1;
+                curr1= curr1->next;
+                tail= tail->next;         
+            }
+        }
+        if(curr1){
+            while(curr1){
+                tail->next= curr1;
+                curr1= curr1->next;
+                tail= tail->next;              
+            }
+        }
+        else{
+            while(curr2){
+                tail->next= curr2;
+                curr2= curr2->next;
+                tail= tail->next;              
+            }
+        }
+        return dummy->next;
     }
 };
