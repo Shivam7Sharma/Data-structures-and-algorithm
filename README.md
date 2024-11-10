@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
