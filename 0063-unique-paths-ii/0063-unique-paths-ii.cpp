@@ -25,7 +25,8 @@ public:
             if(j-1>=0){
                 right= dp[i][j-1];
             }
-            dp[i][j]=dp[i][j]+down+right;
+            if(i!=0 || j!=0)
+            dp[i][j]=down+right;
 
         }
      }
