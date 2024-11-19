@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0067-add-binary) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
