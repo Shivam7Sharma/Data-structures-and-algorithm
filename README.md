@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0605-can-place-flowers) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0011-container-with-most-water) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0605-can-place-flowers) |
 ## Two Pointers
