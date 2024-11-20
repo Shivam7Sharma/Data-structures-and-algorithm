@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0392-is-subsequence) |
+| [0806-domino-and-tromino-tiling](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0806-domino-and-tromino-tiling) |
 ## Binary Search
 |  |
 | ------- |
