@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0139-word-break) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
@@ -334,5 +336,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
