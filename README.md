@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0097-interleaving-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0068-text-justification) |
 ## Memoization
 |  |
 | ------- |
