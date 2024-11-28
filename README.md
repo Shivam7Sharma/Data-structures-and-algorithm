@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0224-basic-calculator) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0224-basic-calculator](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0224-basic-calculator) |
 ## Graph
 |  |
 | ------- |
