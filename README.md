@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0228-summary-ranges) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0221-maximal-square) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0945-snakes-and-ladders) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0212-word-search-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0459-repeated-substring-pattern) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0212-word-search-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -364,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1908-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
