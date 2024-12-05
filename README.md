@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0502-ipo) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0502-ipo) |
 ## Quickselect
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 ## String Matching
@@ -387,4 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
