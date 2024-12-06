@@ -13,8 +13,7 @@ class Solution:
                 else:
                     slope = (p2[1]-p1[1])/(p2[0]-p1[0])
                 count[slope]+=1
-                if len(points)>1:
-                    res=max(res, count[slope]+1)
+                res=max(res, count[slope]+1)
 
         return res
                 
