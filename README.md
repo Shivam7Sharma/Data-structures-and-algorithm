@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0605-can-place-flowers) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0945-snakes-and-ladders) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0300-longest-increasing-subsequence) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Sorting
 |  |
 | ------- |
