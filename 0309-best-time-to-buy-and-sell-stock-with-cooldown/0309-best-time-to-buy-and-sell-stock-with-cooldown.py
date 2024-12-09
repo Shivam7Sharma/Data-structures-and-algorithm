@@ -1,23 +1,17 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         
-        dp={}
-        #(i, canBuy)->profit
+        sell=0
+        hold=float("-inf")
+        cooldown=0
 
-        def dfs(i, canBuy):
-            if i>=len(prices):
-                return 0
-            if (i,canBuy) in dp:
-                return dp[(i,canBuy)]
-            cooldown= dfs(i+1, canBuy)
+        for price in prices:
+            prevsell=sell
+            prevhold= hold
+            prevcooldown= cooldown
 
-            if canBuy:
-                buy= dfs(i+1,not canBuy)-prices[i]
-                dp[(i,canBuy)]= max(buy, cooldown)
-            else:
-                sell= dfs(i+2,not canBuy)+ prices[i]
-                dp[(i,canBuy)]= max(sell, cooldown)
+            sell= prevhold + price
+            hold= max(prevhold,prevcooldown-price)
+            cooldown= max(prevcooldown, prevsell)
 
-            return dp[(i,canBuy)]
-
-        return dfs(0,True)
+        return max(sell,cooldown)
