@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0198-house-robber) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0212-word-search-ii) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0052-n-queens-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0212-word-search-ii) |
 ## Merge Sort
 |  |
