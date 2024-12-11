@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0190-reverse-bits) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0052-n-queens-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0212-word-search-ii) |
 ## Merge Sort
 |  |
