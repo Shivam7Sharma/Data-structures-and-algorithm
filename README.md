@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Database
 |  |
 | ------- |
