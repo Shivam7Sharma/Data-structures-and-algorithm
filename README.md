@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0459-repeated-substring-pattern) |
+| [0742-to-lower-case](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0742-to-lower-case) |
 ## Bit Manipulation
 |  |
 | ------- |
