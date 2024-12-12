@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0605-can-place-flowers) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0945-snakes-and-ladders) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Divide and Conquer
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0502-ipo) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
