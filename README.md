@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0945-snakes-and-ladders) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0224-basic-calculator) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/1950-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
