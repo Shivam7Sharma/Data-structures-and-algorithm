@@ -10,24 +10,17 @@ public:
         int target= sum/2;
         
 
-        unordered_set<int> dp({0});
-        unordered_set<int> mem;
-        for( auto x: nums){
-            mem={};
-            for(auto y: dp){
-                if(y+x==target){
-                return true;}
-                else if(x>target){
-                    return false;
-                }
-                if(y+x<target)
-                mem.insert(y+x);
-                
-                mem.insert(y);
-            }
-            dp= mem;
-        }
-        return false;
+        vector<int> dp(target+1,false);
+        dp[0]=true;
         
+        for( auto x: nums){
+            if(dp[target]){
+                return true;
+            }
+            for(int i=target;i>=x;i--){
+                dp[i]= dp[i] || dp[i-x];        }
+        
+    }
+    return dp[target];
     }
 };
