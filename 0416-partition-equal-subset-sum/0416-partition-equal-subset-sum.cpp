@@ -15,10 +15,14 @@ public:
         for( auto x: nums){
             mem={};
             for(auto y: dp){
-                
+                if(y+x==target){
+                return true;}
+                else if(x>target){
+                    return false;
+                }
+                if(y+x<target)
                 mem.insert(y+x);
-                if(y+x==target)
-                return true;
+                
                 mem.insert(y);
             }
             dp= mem;
