@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0768-partition-labels) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0768-partition-labels) |
 ## Two Pointers
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0768-partition-labels) |
 ## String Matching
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0768-partition-labels](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0768-partition-labels) |
 ## Counting
 |  |
 | ------- |
