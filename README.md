@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0502-ipo) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0605-can-place-flowers) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0945-snakes-and-ladders) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0768-partition-labels) |
 ## Counting
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
