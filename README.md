@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0772-construct-quad-tree) |
 ## Matrix
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0543-diameter-of-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
