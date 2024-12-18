@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0502-ipo) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Database
 |  |
@@ -462,4 +465,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0149-max-points-on-a-line) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
