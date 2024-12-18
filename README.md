@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0455-assign-cookies) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0224-basic-calculator](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Shivam7Sharma/Data-structures-and-algorithm/tree/master/0234-palindrome-linked-list) |
 ## Graph
 |  |
 | ------- |
